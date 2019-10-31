@@ -1,0 +1,18 @@
+{
+  "name": "blank-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joedysonbezerra/blank-node.git",
+  "author": "joedysonbezerra <joedysonbezerra@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
